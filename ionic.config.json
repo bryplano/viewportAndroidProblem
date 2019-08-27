@@ -1,0 +1,7 @@
+{
+  "name": "keyboard repro",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
